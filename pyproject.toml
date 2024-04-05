@@ -1,8 +1,8 @@
 [project]
-name = "@HOMEWORK@"
-description = "Trabalho @WORKCODE@ da disciplina @DISC@, do curso de @CURSO@, da @UNIV@."
+name = "extest"
+description = "Trabalho T0 da disciplina null, do curso de Ciência da Computação, da Universidade LaSalle Canoas."
 readme = "README.md"
-version = "@WORKNUM@.@MONTH@.@YEAR@"
+version = "0.04.2024"
 requires-python = ">=3.11"
 license = { file="COPYING" }
 
@@ -19,11 +19,11 @@ dependencies = [
 tox = [ "tox" ]
 
 [project.urls]
-homepage = "https://github.com/rafasgj/@REPO@"
-repository = "https://github.com/rafasgj/@REPO@"
-issues = "https://github.com/rafasgj/@REPO@/issues"
-pull_requests = "https://github.com/rafasgj/@REPO@/pulls"
-discussions = "https://github.com/rafasgj/@REPO@/discussions"
+homepage = "https://github.com/rafasgj/extest"
+repository = "https://github.com/rafasgj/extest"
+issues = "https://github.com/rafasgj/extest/issues"
+pull_requests = "https://github.com/rafasgj/extest/pulls"
+discussions = "https://github.com/rafasgj/extest/discussions"
 
 [build-system]
 requires = ["setuptools"]

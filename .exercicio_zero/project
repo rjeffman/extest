@@ -1,9 +1,9 @@
 # Configuração do exercício
-HOMEWORK="<disciplina>-<ano>-T<num>"
+HOMEWORK="extest"
 USERNAME="exercicio_zero"
-REPOSITORY="<disciplina>-T<num>"
-WORKNUM="<num>"
-DISCIPLINA="<disciplina>"
+REPOSITORY="extest"
+WORKNUM="0"
+DISCIPLINA="null"
 # CURSO=""
 # UNIVERSIDADE=""
 # MONTH=""
